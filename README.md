@@ -5,3 +5,9 @@ Output in PowerShell terminal
 
 Output in AWS Instance
 ![image](https://github.com/user-attachments/assets/e9efdc24-3e9a-495b-99a3-95602e6be2a6)
+
+VM1 
+![image](https://github.com/user-attachments/assets/94106923-a58e-42d9-802c-ffcfa992974c)
+
+VM2
+![Uploading image.png…]()
