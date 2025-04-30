@@ -1,5 +1,5 @@
 # AWS_Terraform
-
+*terraform is not uploaded dues to its large size
 ### Output in PowerShell terminal
 ![image](https://github.com/user-attachments/assets/0c16451e-ff88-421c-9ec9-cf96f17bae39)
 
