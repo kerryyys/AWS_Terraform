@@ -10,4 +10,4 @@ VM1
 ![image](https://github.com/user-attachments/assets/94106923-a58e-42d9-802c-ffcfa992974c)
 
 VM2
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9ea287c0-5820-4544-b25a-30b91418786f)
